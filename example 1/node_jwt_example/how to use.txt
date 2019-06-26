@@ -1,0 +1,20 @@
+> yarn start
+
+http://localhost:5000/api
+http://localhost:5000/api/login
+http://localhost:5000/api/posts
+
+
+in postman
+==========
+Post > http://localhost:5000/api/login
+and copy token
+
+POST > http://localhost:5000/api/posts
+Key > Authorization
+Value > Bearer token-key
+
+
+
+
+
