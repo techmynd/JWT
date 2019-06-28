@@ -1,0 +1,11 @@
+install packages in root and in jwtAuth folder
+
+> yarn start at root and seperately in jwtAuth
+jwtAuth is server
+
+use hardcoded credentials
+username: test
+password: asdf123
+or
+username: test2
+password: asdf12345
