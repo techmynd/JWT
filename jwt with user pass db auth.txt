@@ -1,0 +1,8 @@
+https://medium.com/@maison.moa/using-jwt-json-web-tokens-to-authorize-users-and-protect-api-routes-3e04a1453c3e
+
+https://dev.to/medaymentn/securing-your-node-js-api-with-json-web-token-5o5
+
+https://medium.com/@onejohi/securing-your-express-restful-apis-using-json-web-tokens-8c2fff0f4e7f
+
+https://scotch.io/tutorials/authenticate-a-node-js-api-with-json-web-tokens
+
