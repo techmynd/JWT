@@ -1,0 +1,14 @@
+> yarn start
+> yarn start-dev
+
+root
+http://localhost:5000
+
+api root
+http://localhost:5000/api
+
+auth root - not publically acccessible / creates token
+http://localhost:5000/api/auth
+
+protected route
+http://localhost:5000/api/data

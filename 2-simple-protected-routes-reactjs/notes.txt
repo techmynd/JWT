@@ -1,0 +1,40 @@
+client root
+http://localhost:3000
+
+api root
+http://localhost:5000
+
+api home
+http://localhost:5000/api
+
+auth root - not publically acccessible / creates token
+http://localhost:5000/api/auth
+Request Type > POST // postman
+
+Protected Route
+http://localhost:5000/api/data
+
+===========================
+
+install api 
+-----------
+> yarn install-server
+
+install client
+--------------
+> yarn install-client
+
+run api server
+> yarn api-server-go
+
+run client
+> yarn client-go
+
+start app
+=========
+> yarn start-app
+
+
+
+
+
