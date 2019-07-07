@@ -1,0 +1,33 @@
+no db / app works with postman
+
+> node index.js
+
+http://localhost:3000/
+
+
+
+http://localhost:3000/authenticate
+postman / body / raw / JSON(application/json)
+POST
+{
+"username": "aymen","password": "123"
+}
+
+
+protected route // all routes under /api
+http://localhost:3000/api
+
+
+http://localhost:3000/api/getAllProducts
+GET
+Headers
+access-token > eyJhbGciOiJIUzI....
+
+
+example: 
+https://dev.to/medaymentn/securing-your-node-js-api-with-json-web-token-5o5
+
+see screenshots
+
+
+

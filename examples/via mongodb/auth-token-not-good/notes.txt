@@ -1,0 +1,31 @@
+example not perfect
+===================
+
+
+local db
+========
+mongodb://localhost:27017/auth-token
+
+> node app.js
+
+http://localhost:3000/
+
+create users table / and add info
+"username": 'OneJohi',
+"password": '123456'
+
+routes / POST requests
+body / raw
+
+{
+ "username": 'OneJohi',
+ "password": '123456'
+}
+
+http://localhost:3000/login
+http://localhost:3000/signup
+
+
+https://medium.com/@onejohi/securing-your-express-restful-apis-using-json-web-tokens-8c2fff0f4e7f
+
+
